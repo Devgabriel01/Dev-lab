@@ -14,7 +14,7 @@ Este repositório contém um protótipo funcional do app FocusFlow (Web, Android
    npm run start
    ```
 3. Abra no destino desejado:
-   - Web: pressione `w`
+   - Web: pressione `w` ou execute `npm run web`
    - Android/iOS: use um emulador ou o app Expo Go
 
 ### Documentação
